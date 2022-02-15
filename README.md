@@ -67,3 +67,7 @@ Its lead developers and contributors are:
 You can view the complete list of contributors here on [GitHub's Contributors Graph](https://github.com/HyperTeam/packages_apps_RealmeParts/graphs/contributors).
 
 You can open a Pull Request or an Issue in case you want to contribute to this project or raise an issue/request. Contributions are always welcome.
+
+```
+git clone https://github.com/ahmedmoselhi/android_packages_apps_RealmeParts packages/apps/RealmeParts
+```
